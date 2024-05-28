@@ -43,7 +43,7 @@ function App() {
   };
 
   return (
-    <div className="flex flex-col gap-y-6 my-20 max-w-lg mx-auto bg-white shadow-sm p-10">
+    <div className="flex flex-col gap-y-4 my-20 max-w-lg mx-auto bg-white shadow-sm p-10">
       <Header />
 
       <div className="flex justify-between my-16">
